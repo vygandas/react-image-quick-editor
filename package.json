@@ -1,10 +1,10 @@
 {
   "name": "react-image-quick-editor",
-  "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "version": "0.0.1",
+  "description": "Image Editor (crop, resize, draw, filter) for React with TypeScript support.",
   "author": "vygandas",
   "license": "MIT",
-  "repository": "vygandas/react-image-quick-editor",
+  "repository": "https://github.com/vygandas/react-image-quick-editor",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",

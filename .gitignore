@@ -105,4 +105,4 @@ dist
 .idea
 build
 dist
-example/node_modules
+dev/node_modules
